@@ -1,6 +1,6 @@
 {
   "name": "drugst.one",
-  "version": "0.0.1",
+  "version": "1.1.17",
   "description": "See https://drugst.one/ for more details.",
   "scripts": {
     "test": "echo \"Warning: no test specified\" && exit 0"
