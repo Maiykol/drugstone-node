@@ -1,11 +1,13 @@
 {
   "name": "drugst.one",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "See https://drugst.one/ for more details.",
-  "main": "drugstone.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: no test specified\" && exit 0"
   },
+  "homepage": "https://drugst.one/",
+  "main": "dist/js/drugstone.js",
+  "style": "dist/css/drugstone.css",
   "repository": {
     "type": "git",
     "url": "https://gitlab.rrz.uni-hamburg.de/cosy-bio/drugst.one/website"
